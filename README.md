@@ -1,4 +1,6 @@
-# ai-a3
+# AI-AS3
+
+Reinforcement Learning
 
 # Setup
 
